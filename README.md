@@ -15,5 +15,5 @@
 Supervised Learning is the learning in which the model learns from the past and generalise precdiction for future data. 
 Supervised Learning is used for **Regression** and **Classification** problems. 
 A simple flowchart for Supervised Learning is shown below:
-![Supervised Learning]("./Images/supervised")
+![Supervised Learning]("Images/supervised")
 -Applications include: Spam detection,document classification,NLP,Image Classification,Sequence Processing and much more!
