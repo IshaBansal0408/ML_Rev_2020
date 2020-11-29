@@ -11,3 +11,9 @@
 2. Training Set : Combination of input and output data ( Used for learning and teaching the machine )
 3. Testing Set : Collection of only input ( Used for predicting and checking the algo )
 4. Hypothesis : A function of the form f(x)=y where x is the input data and y is the output data
+### 2. Supervised Learning
+Supervised Learning is the learning in which the model learns from the past and generalise precdiction for future data. 
+Supervised Learning is used for **Regression** and **Classification** problems. 
+A simple flowchart for Supervised Learning is shown below:
+![Supervised Learning](supervised.png)
+-Applications include: Spam detection,document classification,NLP,Image Classification,Sequence Processing and much more!
