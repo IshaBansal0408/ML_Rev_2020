@@ -11,9 +11,28 @@
 2. Training Set : Combination of input and output data ( Used for learning and teaching the machine )
 3. Testing Set : Collection of only input ( Used for predicting and checking the algo )
 4. Hypothesis : A function of the form f(x)=y where x is the input data and y is the output data
+
 ### 2. Supervised Learning
 Supervised Learning is the learning in which the model learns from the past and generalise precdiction for future data. 
 Supervised Learning is used for **Regression** and **Classification** problems. 
+
 A simple flowchart for Supervised Learning is shown below:
 <img src="Images/supervised.png">
 -Applications include: Spam detection,document classification,NLP,Image Classification,Sequence Processing and much more!
+
+### 3. Unsupervised Learning
+Unsupervised Learning is the no supervision learning in which grouping of similar data takes place (**Clustering**). 
+-Also there are no labels available (only input is available). 
+-Pattern finding takes place to predict outputs
+
+### 4. Semi-supervised Learning
+In semi-supervised Learning manual labelling of some data points takes place(**Rule based Learning**). 
+-Applications include: Object Segmentation, Similarity detection, Automatic labelling and much more!
+
+### 5. Reinforcement Learning
+Reinforcement Learning is used in computer games and is similar to hoe humans learn and react to situations.
+
+Following diagram shows a simple flowchart to represent reinforcement learning: 
+<img src="Images/reinforcement.png">
+1. AI based Agent - Object which interacts with the environment 
+2. Environment - Entire game ( incase of games )
