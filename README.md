@@ -17,7 +17,7 @@ Supervised Learning is the learning in which the model learns from the past and 
 Supervised Learning is used for **Regression** and **Classification** problems. 
 
 A simple flowchart for Supervised Learning is shown below:
-<img src="Images/supervised.png">
+<img src="Images/supervised.png" width="200" height="100">
 -Applications include: Spam detection,document classification,NLP,Image Classification,Sequence Processing and much more!
 
 ##### Unsupervised Learning
@@ -33,6 +33,17 @@ In semi-supervised Learning manual labelling of some data points takes place(**R
 Reinforcement Learning is used in computer games and is similar to hoe humans learn and react to situations.
 
 Following diagram shows a simple flowchart to represent reinforcement learning: 
-<img src="Images/reinforcement.png">
+<img src="Images/reinforcement.png" width="200" height="100">
 1. AI based Agent - Object which interacts with the environment 
 2. Environment - Entire game ( incase of games )
+
+### 2. Data Visualisation 
+It includes the following plots:
+        1. Line Plots
+        2. Scatter Plots
+        3. Bar Graphs
+        4. Pie Chart
+        5. Histograph
+
+An illustration of same plots are shown below :
+<img src="./Images/data/data_visualise.png" width="200" height="200">
