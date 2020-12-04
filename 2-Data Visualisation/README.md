@@ -7,4 +7,4 @@ It includes the following plots:
         5. Histograph
 
 An illustration of same plots are shown below :
-<img src="Images/data_visualise.png" width="600" height="300">
+<img src="../Images/data_visualise.png" width="600" height="300">
