@@ -6,5 +6,5 @@
         4. Tensor : Arrays with more than 2 axis
 
 Illustrations of the same are shown below:
- <img src="./Images/algebra.png" width="600" height="200">
+ <img src="../Images/algebra.png" width="600" height="200">
 
