@@ -9,6 +9,7 @@ It provides you with around 50 corpus data (corpus are large collections of data
 # Bag of Words Pipeline
 <img src="../Images/BOW.jpg" height=100px width=100px>
 The pipeline includes the following steps:
+
 1. Getting Data/Corpus
 2. Tokenisation: Breaking words into smallest tokens possible
 3. Stopwords Removal: Removing words which have less significance/no meaning
